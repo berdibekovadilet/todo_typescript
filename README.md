@@ -1,6 +1,6 @@
 # React Todo App using Typescript
 # Live
-https://casiowatch.netlify.app/
+https://todo-typescript-omega.vercel.app/
 
 # Covers
 ![cover](cover/1.png)
